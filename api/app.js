@@ -9,15 +9,15 @@ app.get('/', (req, res) => {
   res.json([
     {
       "id":"5",
-      "title":"PICT Review: Good clg but wtf"
+      "title":"Cope: Good clg but wtf"
     },
     {
       "id":"2",
-      "title":"jiyan patil Brillian Diamond"
+      "title":"Vit Brillian Diamond"
     },
     {
       "id":"3",
-      "title":"Show Review: Alice in Borderland"
+      "title":"Viit: Alice in Borderland"
     }
   ])
 })
